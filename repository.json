@@ -1,0 +1,19 @@
+{
+	"schema_version": "1.0.0",
+	"packages": [
+		{
+			"name": "fircli",
+			"details": "https://github.com/abusalimov/SublimeCImproved",
+			"labels": ["language syntax"],
+			"author": "fir",
+			"platform": ["*"]
+		},
+		{
+			"name": "flowCli",
+			"details": "https://github.com/abusalimov/SublimeCImproved",
+			"labels": ["language syntax"],
+			"author": "fir",
+			"platform": ["*"]
+		}
+	]
+}
