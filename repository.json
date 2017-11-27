@@ -14,6 +14,41 @@
 			"labels": ["language syntax"],
 			"author": "fir",
 			"platform": ["*"]
+		},
+		{
+			"name": "flowCliA",
+			"details": "https://github.com/yunheli/info",
+			"labels": ["language syntax"],
+			"author": "fir",
+			"platform": ["*"]
+		},
+		{
+			"name": "flowCliB",
+			"details": "https://github.com/yunheli/info",
+			"labels": ["language syntax"],
+			"author": "fir",
+			"platform": ["*"]
+		},
+		{
+			"name": "flowCliC",
+			"details": "https://github.com/yunheli/info",
+			"labels": ["language syntax"],
+			"author": "fir",
+			"platform": ["*"]
+		},
+		{
+			"name": "flowCliD",
+			"details": "https://github.com/yunheli/info",
+			"labels": ["language syntax"],
+			"author": "fir",
+			"platform": ["*"]
+		},
+		{
+			"name": "flowCliE",
+			"details": "https://github.com/yunheli/info",
+			"labels": ["language syntax"],
+			"author": "fir",
+			"platform": ["*"]
 		}
 	]
 }
