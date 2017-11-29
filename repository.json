@@ -7,7 +7,7 @@
 			"labels": ["language syntax"],
 			"author": "fir",
 			"platform": ["*"],
-			"tag": "1.0"
+			"tag": "2.3.2"
 		},
 		{
 			"name": "flowCli",
@@ -15,7 +15,7 @@
 			"labels": ["language syntax"],
 			"author": "fir",
 			"platform": ["*"],
-			"tag": "1.0"
+			"tag": "2.3.2"
 		},
 		{
 			"name": "flowCliA",
@@ -23,7 +23,7 @@
 			"labels": ["language syntax"],
 			"author": "fir",
 			"platform": ["*"],
-			"tag": "1.0"
+			"tag": "2.3.2"
 		},
 		{
 			"name": "flowCliB",
@@ -31,7 +31,7 @@
 			"labels": ["language syntax"],
 			"author": "fir",
 			"platform": ["*"],
-			"tag": "1.0"
+			"tag": "2.3.2"
 		},
 		{
 			"name": "flowCliC",
@@ -39,7 +39,7 @@
 			"labels": ["language syntax"],
 			"author": "fir",
 			"platform": ["*"],
-			"tag": "1.0"
+			"tag": "2.3.2"
 		},
 		{
 			"name": "flowCliD",
@@ -47,7 +47,7 @@
 			"labels": ["language syntax"],
 			"author": "fir",
 			"platform": ["*"],
-			"tag": "1.0"
+			"tag": "2.3.2"
 		},
 		{
 			"name": "flowCliE",
@@ -55,7 +55,7 @@
 			"labels": ["language syntax"],
 			"author": "fir",
 			"platform": ["*"],
-			"tag": "1.0"
+			"tag": "2.3.2"
 		}
 	]
 }
