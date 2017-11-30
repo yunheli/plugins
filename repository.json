@@ -5,6 +5,7 @@
 			"name": "fircli",
 			"details": "https://github.com/yunheli/info",
 			"labels": ["language syntax"],
+			"description": "",
 			"author": "fir",
 			"platform": ["*"],
 			"tag": "2.3.3"
