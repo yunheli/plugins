@@ -9,7 +9,7 @@
 			"author": "fir",
 			"platform": ["*"],
 			"tag": "2.3.4",
-			"latestCommit": "44719515a95a1423c05616558bbd245a3eb6516f"
+			"latestCommit": "0fe1d404fd2f49fd6aac315ce2f01e1f4cb8d09d"
 		},
 		{
 			"name": "flowCli",
@@ -18,7 +18,7 @@
 			"author": "fir",
 			"platform": ["*"],
 			"tag": "2.3.4",
-			"latestCommit": "44719515a95a1423c05616558bbd245a3eb6516f"
+			"latestCommit": "0fe1d404fd2f49fd6aac315ce2f01e1f4cb8d09d"
 		},
 		{
 			"name": "flowCliA",
@@ -27,7 +27,7 @@
 			"author": "fir",
 			"platform": ["*"],
 			"tag": "2.3.4",
-			"latestCommit": "44719515a95a1423c05616558bbd245a3eb6516f"
+			"latestCommit": "0fe1d404fd2f49fd6aac315ce2f01e1f4cb8d09d"
 		},
 		{
 			"name": "flowCliB",
@@ -36,7 +36,7 @@
 			"author": "fir",
 			"platform": ["*"],
 			"tag": "2.3.4",
-			"latestCommit": "44719515a95a1423c05616558bbd245a3eb6516f"
+			"latestCommit": "0fe1d404fd2f49fd6aac315ce2f01e1f4cb8d09d"
 		},
 		{
 			"name": "flowCliC",
@@ -45,7 +45,7 @@
 			"author": "fir",
 			"platform": ["*"],
 			"tag": "2.3.4",
-			"latestCommit": "44719515a95a1423c05616558bbd245a3eb6516f"
+			"latestCommit": "0fe1d404fd2f49fd6aac315ce2f01e1f4cb8d09d"
 		},
 		{
 			"name": "flowCliD",
@@ -54,7 +54,7 @@
 			"author": "fir",
 			"platform": ["*"],
 			"tag": "2.3.4",
-			"latestCommit": "44719515a95a1423c05616558bbd245a3eb6516f"
+			"latestCommit": "0fe1d404fd2f49fd6aac315ce2f01e1f4cb8d09d"
 		},
 		{
 			"name": "flowCliE",
@@ -63,7 +63,7 @@
 			"author": "fir",
 			"platform": ["*"],
 			"tag": "2.3.4",
-			"latestCommit": "44719515a95a1423c05616558bbd245a3eb6516f"
+			"latestCommit": "0fe1d404fd2f49fd6aac315ce2f01e1f4cb8d09d"
 		}
 	]
 }
