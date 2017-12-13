@@ -61,7 +61,7 @@
 			"details": "https://github.com/yunheli/info",
 			"labels": ["language syntax"],
 			"author": "fir",
-			"platform": ["*"],
+			"platform": ["*", "windows"],
 			"tag": "2.3.4",
 			"latestCommit": "0fe1d404fd2f49fd6aac315ce2f01e1f4cb8d09d"
 		}
